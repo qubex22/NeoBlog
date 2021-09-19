@@ -1,0 +1,1 @@
+\#### En este capítulo haremos la configuración de las interfaces del router para poder tener conexión y entenderemos como funciona iptables para tener un firewall básico.
