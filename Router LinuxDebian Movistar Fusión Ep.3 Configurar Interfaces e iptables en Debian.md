@@ -138,7 +138,7 @@ wan: <POINTOPOINT,MULTICAST,NOARP,UP,LOWER_UP> mtu 1492 qdisc pfifo_fast state U
 
 ```
 ---
-En los próximos capítulos configuraremos iptables y dhjcp
+En los próximos capítulos configuraremos iptables y dhcp
 
 
 
